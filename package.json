@@ -1,0 +1,9 @@
+{
+  "name": "isa-plataforma-jogos",
+  "version": "1.0.0",
+  "description": "Plataforma de jogos com cadastro, login, ranking e dois jogos simples",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

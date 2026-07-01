@@ -1,0 +1,38 @@
+[
+  {
+    "id": "score-1782938608997-7oyp",
+    "userId": "user-1782938573019-cupj",
+    "userName": "Ana",
+    "gameId": "memory",
+    "gameName": "Jogo da Memória",
+    "score": 316,
+    "createdAt": "2026-07-01T20:43:28.997Z"
+  },
+  {
+    "id": "score-1782938628023-y02e",
+    "userId": "user-1782938573019-cupj",
+    "userName": "Ana",
+    "gameId": "clicker",
+    "gameName": "Clicker de Tempo",
+    "score": 740,
+    "createdAt": "2026-07-01T20:43:48.023Z"
+  },
+  {
+    "id": "score-1782938643035-3pa3",
+    "userId": "user-1782938573019-cupj",
+    "userName": "Ana",
+    "gameId": "clicker",
+    "gameName": "Clicker de Tempo",
+    "score": 320,
+    "createdAt": "2026-07-01T20:44:03.035Z"
+  },
+  {
+    "id": "score-1782938658050-gh6d",
+    "userId": "user-1782938573019-cupj",
+    "userName": "Ana",
+    "gameId": "clicker",
+    "gameName": "Clicker de Tempo",
+    "score": 0,
+    "createdAt": "2026-07-01T20:44:18.050Z"
+  }
+]
